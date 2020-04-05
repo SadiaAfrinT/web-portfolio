@@ -1,0 +1,90 @@
+body{
+    background-image: linear-gradient(90deg, rgb(226, 119, 25), tomato );
+    font-family: 'Poppins', sans-serif;
+    margin: 50px;
+}
+h1{
+    font-size: 40px;
+    
+}
+.name_text-highlight{
+    color: rgb(240, 45, 11);
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+}
+.half-width img{
+    padding-top: 120px;
+    width: 100%; 
+    
+}
+.top-banner{
+    background-color: rgb(250, 183, 125);
+    box-shadow: 10px 10px 20px rgb(92, 91, 91);
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: repeating-linear-gradient(45deg, tomato, rgb(226,119,25));
+    padding: 6px 20px;
+    border-radius: 5px;
+    color: peachpuff;
+
+}
+.small-size{
+    width: 40%;
+    float: left;
+    margin-left: 0%;
+    padding-left: 2%;
+    margin-top: 100px;
+}
+.small-size img{
+    width: 50%;
+    margin: 0px 5px 5px 200px;
+}
+.link-button-hire{
+    text-decoration: none;
+    background-image: repeating-linear-gradient(45deg, peachpuff, rgb(243, 176, 118));
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: rgb(240, 45, 11);
+}
+.expertise-area{
+    background-color: rgb(250, 163, 86);
+    box-shadow: 10px 10px 20px rgb(92, 91, 91);
+}
+.expertise-area h2{
+    padding-top: 30px;
+    text-align: center;
+}
+.expertise-area h5{
+    text-align: center;
+}
+.one-third-width{
+    width: 20%;
+    float: left;
+    margin-top: 40px;
+    margin:4%;
+    padding: 2.3%;
+    box-shadow: 10px 10px 14px rgb(92, 91, 91);
+    background-color: peachpuff;
+    height: 35%;
+    text-align: center;
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg,rgb(226, 119, 25), tomato);
+    border-image-slice:1;
+}
+p{
+    font-size: 13px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
